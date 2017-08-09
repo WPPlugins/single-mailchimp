@@ -1,0 +1,11 @@
+== Changelog ==
+= 1.2 =
+- fixed jQuery error
+
+= 1.01 =
+- fix on errorhandling
+
+== Upgrade Notice ==
+
+= 1.0 =
+Just released, for more information read the readme.txt
